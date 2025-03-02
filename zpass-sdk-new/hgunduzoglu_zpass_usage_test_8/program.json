@@ -1,0 +1,14 @@
+{
+  "program": "hgunduzoglu_zpass_usage_test_8.aleo",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "hgunduzoglu_zpass_merkle_8.aleo",
+      "location": "network",
+      "network": "testnet",
+      "path": null
+    }
+  ]
+}
